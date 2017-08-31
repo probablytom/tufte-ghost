@@ -1087,7 +1087,7 @@ body.js .main-header-content {
     .main-header {
         height: 30vh;
     }
-    .archive-template .main-header {
+    .paged .main-header {
         max-height: 20vh;
         min-height: 160px;
         padding: 10% 0;
@@ -1099,7 +1099,7 @@ body.js .main-header-content {
     .author-head .main-header {
         height: 20vh;
     }
-    .archive-template .main-header .page-description {
+    .paged .main-header .page-description {
         display: none;
     }
     .page-title {
